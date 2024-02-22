@@ -1,3 +1,13 @@
+"""
+This script generates a text file with random characters.
+
+Usage:
+    python generate_text_file.py
+
+Options:
+    -h --help     Show this screen.
+"""
+
 import random
 
 # Define the number of lines and characters per line
